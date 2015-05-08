@@ -1,0 +1,25 @@
+{
+  "name": "koa-learning",
+  "version": "1.0.0",
+  "description": "a learn demo of koa",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luoyjx/koa-learning"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "luoyjx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luoyjx/koa-learning/issues"
+  },
+  "homepage": "https://github.com/luoyjx/koa-learning",
+  "dependencies": {
+    "koa": "^0.20.0"
+  }
+}
