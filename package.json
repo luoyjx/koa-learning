@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/luoyjx/koa-learning",
   "dependencies": {
-    "koa": "^0.20.0"
+    "koa": "^2.2.0"
   }
 }
